@@ -26,7 +26,7 @@
 
 nav p{font-family: 'Inter', sans-serif;}
 .section1{
-    background-image: url(Assets/s1background.png);
+    background-image: url(../Assets/s1background.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
